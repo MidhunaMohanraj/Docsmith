@@ -1,4 +1,4 @@
-# docsmith
+# Docsmith
 
 AI-assisted documentation generator for Python codebases. Point it at a
 directory, get back a `DOCS.md` with a written project overview plus a
