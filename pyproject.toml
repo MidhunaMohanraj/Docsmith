@@ -15,7 +15,6 @@ dependencies = [
 [project.optional-dependencies]
 ai = ["anthropic>=0.40"]
 dev = ["pytest>=8.0"]
-
 [project.scripts]
 docsmith = "docsmith.cli:main"
 
