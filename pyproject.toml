@@ -19,4 +19,4 @@ dev = ["pytest>=8.0"]
 docsmith = "docsmith.cli:main"
 
 [tool.setuptools.packages.find]
-where = ["src"]
+where = ["src"]  
